@@ -3,7 +3,7 @@ import React from "react";
 export const Header = (props) => {
   return (
     <header id="header">
-      <div className="intro">
+      <div className="intro" style={{ opacity: 1, height: `90vh` }}>
         <div className="overlay">
           <div className="container">
             <div className="row">
@@ -12,13 +12,26 @@ export const Header = (props) => {
                   {props.data ? props.data.title : "Loading"}
                   <span></span>
                 </h1>
-                <p>{props.data ? props.data.paragraph : "Loading"}</p>
-                <a
-                  href="#features"
-                  className="btn btn-custom btn-lg page-scroll"
+                <p
+                  style={{
+                    mixBlendMode: "difference",
+                    fontWeight: 700,
+                    color: "gold",
+                  }}
                 >
-                  Learn More
-                </a>{" "}
+                  <span></span>
+                  {/* {props.data ? props.data.paragraph : "Loading"} */}
+                </p>
+                <p
+                  style={{
+                    mixBlendMode: "difference",
+                    fontWeight: 700,
+                    color: "gold",
+                  }}
+                >
+                  <span></span>
+                  {/* {props.data ? props.data.paragraph : "Loading"} */}
+                </p>
               </div>
             </div>
           </div>

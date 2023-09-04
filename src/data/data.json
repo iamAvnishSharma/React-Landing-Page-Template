@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "",
+    "paragraph": "Rajwaad ~ An Ethnic Wear was officially founded in in the year 2018. We believe in delivering quality and We purely believe in Custom Tailor-Made. Completely as per your requirements and budget."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Rajwaad ~ An Ethnic Wear was officially founded in in the year 2018. We believe in delivering quality and We purely believe in Custom Tailor-Made. Completely as per your requirements and budget.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -68,7 +68,7 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
+      "name": "1",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
