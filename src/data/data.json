@@ -33,36 +33,6 @@
       "title": "Project Title",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
@@ -146,10 +116,59 @@
       "job": "Project Manager"
     }
   ],
+  "Highlights": [
+    {
+      "img": "img/team/1_kediya.jpg",
+      "name": "Men's Wear",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Women's Wear",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Throback 2018",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Throback 2022",
+      "job": "Senior Designer"
+    }
+  ],
+  "Collections": [
+    {
+      "img": "img/team/1_kediya.jpg",
+      "name": "Kedia",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Chorni",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Chakda",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Koti",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Chaniya",
+      "job": "Senior Designer"
+    }
+  ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Mumbai ",
+    "phone": "+91 8169156573",
+    "email": "info@rajwaad.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -159,7 +178,6 @@
       "icon": "fa fa-comments-o",
       "title": "Men's Wear",
       "text": ""
-      
     },
     {
       "icon": "fa fa-bullhorn",
