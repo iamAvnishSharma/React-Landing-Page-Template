@@ -4,7 +4,10 @@ import { Header } from "./components/header";
 import { Features } from "./components/features";
 import { About } from "./components/about";
 import { Services } from "./components/services";
-import { Gallery } from "./components/gallery";
+import { Kediya } from "./components/kediya";
+import { Chorni } from "./components/chorni";
+import { Chakda } from "./components/chakda";
+import { Koti } from "./components/koti";
 import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
 import { Highlights } from "./components/Highlights";
@@ -37,9 +40,10 @@ const App = () => {
       <About data={landingPageData.About} />
       {/* <Features data={landingPageData.Features} /> */}
       {/* <Services data={landingPageData.Services} /> */}
-      <Gallery data={landingPageData.Gallery} />
-      <Gallery data={landingPageData.Gallery} />
-      <Gallery data={landingPageData.Gallery} />
+      <Kediya data={landingPageData.Kediya} />
+      <Chorni data={landingPageData.Chorni} />
+      <Chakda data={landingPageData.Chakda} />
+      <Koti data={landingPageData.Koti} />
       {/* <Testimonials data={landingPageData.Testimonials} /> */}
       {/* <Team data={landingPageData.Team} /> */}
       <Contact data={landingPageData.Contact} />

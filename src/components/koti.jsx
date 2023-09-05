@@ -1,12 +1,12 @@
 import { Image } from "./image";
 import React from "react";
 
-export const Gallery = (props) => {
+export const Koti = (props) => {
   return (
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Kedia</h2>
+          <h2>Koti</h2>
         </div>
         <div className="row">
           <div className="portfolio-items">
