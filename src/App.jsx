@@ -5,6 +5,7 @@ import { Features } from "./components/features";
 import { About } from "./components/about";
 import { Services } from "./components/services";
 import { Kediya } from "./components/kediya";
+import { Kediyacatalogue } from "./components/kediyacatalogue";
 import { Chorni } from "./components/chorni";
 import { Chakda } from "./components/chakda";
 import { Koti } from "./components/koti";
@@ -41,6 +42,7 @@ const App = () => {
       {/* <Features data={landingPageData.Features} /> */}
       {/* <Services data={landingPageData.Services} /> */}
       <Kediya data={landingPageData.Kediya} />
+      <Kediyacatalogue data={landingPageData.Kediyacatalogue} />
       <Chorni data={landingPageData.Chorni} />
       <Chakda data={landingPageData.Chakda} />
       <Koti data={landingPageData.Koti} />

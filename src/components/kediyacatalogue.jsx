@@ -1,12 +1,12 @@
 import { Image } from "./image";
 import React from "react";
 
-export const Kediya = (props) => {
+export const Kediyacatalogue = (props) => {
   return (
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Kediya</h2>
+          <h2>Kediya's</h2>
         </div>
         <div className="row">
           <div className="portfolio-items">
