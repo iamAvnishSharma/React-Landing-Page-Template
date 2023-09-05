@@ -42,15 +42,21 @@ const App = () => {
       {/* <Features data={landingPageData.Features} /> */}
       {/* <Services data={landingPageData.Services} /> */}
       <Kediya data={landingPageData.Kediya} />
-      <Kediyacatalogue data={landingPageData.Kediyacatalogue} />
+      {/* <Kediyacatalogue data={landingPageData.Kediyacatalogue} /> */}
       <Chorni data={landingPageData.Chorni} />
       <Chakda data={landingPageData.Chakda} />
       <Koti data={landingPageData.Koti} />
       {/* <Testimonials data={landingPageData.Testimonials} /> */}
       {/* <Team data={landingPageData.Team} /> */}
       <Contact data={landingPageData.Contact} />
+      
     </div>
   );
+  document.querySelector('.click').addEventListener('click', (e) => {
+    // Do whatever you want
+    <Kediyacatalogue data={landingPageData.Kediyacatalogue} />
+    e.target.textContent = 'Clicked!';
+  });
 };
 
 export default App;
