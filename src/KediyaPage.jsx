@@ -31,7 +31,7 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
   speedAsDuration: true,
 });
 
-const App = () => {
+const KediyaPage = () => {
   const [landingPageData, setLandingPageData] = useState({});
   useEffect(() => {
     setLandingPageData(JsonData);
@@ -40,25 +40,13 @@ const App = () => {
   return (
     <div>
       <Navigation />
-      <Header data={landingPageData.Header} />
-      <Highlights data={landingPageData.Highlights} />
-      <Collections data={landingPageData.Collections} />
-      {/* <Highlights data={landingPageData.Highlights} /> */}
-      {/* <Features data={landingPageData.Features} /> */}
-      <About data={landingPageData.About} />
-      {/* <Features data={landingPageData.Features} /> */}
-      {/* <Services data={landingPageData.Services} /> */}
+      
       <Kediya data={landingPageData.Kediya} />
-      {/* <Kediyacatalogue data={landingPageData.Kediyacatalogue} /> */}
-      <Chorni data={landingPageData.Chorni} />
-      <Chakda data={landingPageData.Chakda} />
-      <Koti data={landingPageData.Koti} />
-      {/* <Testimonials data={landingPageData.Testimonials} /> */}
-      {/* <Team data={landingPageData.Team} /> */}
+      
       <Contact data={landingPageData.Contact} />
       
     </div>
   );
 };
 
-export default App;
+export default KediyaPage;

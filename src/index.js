@@ -1,12 +1,34 @@
-import React from 'react';
+import * as React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import KediyaPage from './KediyaPage';
 import * as serviceWorker from './serviceWorker';
+import {
+  createBrowserRouter,
+  RouterProvider,
+  Route,
+  Link,
+} from "react-router-dom";
+
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: (
+      <App/>
+    ),
+  },
+  {
+    path: "/kediya",
+    element: <KediyaPage/>,
+  },
+]);
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router} />
   </React.StrictMode>,
   document.getElementById('root')
 );

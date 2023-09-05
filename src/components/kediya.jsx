@@ -22,15 +22,17 @@ export const Kediya = (props) => {
                       smallImage={d.smallImage}
                     />
                   </div>
-                  
                 ))
               : "Loading..."}
-              
           </div>
           <div class="mt-20">
-          <button type="button" class="btn btn-primary click mt-20">View more</button> 
+            <a href="/kediya">
+              {" "}
+              <button type="button" class="btn btn-primary click mt-20">
+                View more
+              </button>{" "}
+            </a>
           </div>
-          
         </div>
       </div>
     </div>
