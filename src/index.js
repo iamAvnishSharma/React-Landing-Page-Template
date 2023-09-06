@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import KediyaPage from './KediyaPage';
+import ChorniPage from './ChorniPage';
+import ChakdaPage from './ChakdaPage';
+import KotiPage from './KotiPage';
 import * as serviceWorker from './serviceWorker';
 import {
   createBrowserRouter,
@@ -23,6 +26,18 @@ const router = createBrowserRouter([
     path: "/kediya",
     element: <KediyaPage/>,
   },
+  {
+    path: "/chorni",
+    element: <ChorniPage/>,
+  },
+  {
+    path: "/chakda",
+    element: <ChakdaPage/>,
+  },
+  {
+    path: "/koti",
+    element: <KotiPage/>,
+  }
 ]);
 
 

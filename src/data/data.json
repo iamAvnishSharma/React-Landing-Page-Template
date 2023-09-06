@@ -137,6 +137,132 @@
       "smallImage": "img/portfolio/20_kediya.jpg"
     }
   ],
+  "Chornicatalogue": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/1_chorni.jpg",
+      "smallImage": "img/portfolio/1_chorni.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/2_chorni.jpg",
+      "smallImage": "img/portfolio/2_chorni.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/3_chorni.jpg",
+      "smallImage": "img/portfolio/3_chorni.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/4_chorni.jpg",
+      "smallImage": "img/portfolio/4_chorni.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/5_chorni.jpg",
+      "smallImage": "img/portfolio/5_chorni.jpg"
+    }
+  ],
+  "Chakdacatalogue": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/1_chakda.jpg",
+      "smallImage": "img/portfolio/1_chakda.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/2_chakda.jpg",
+      "smallImage": "img/portfolio/2_chakda.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/3_chakda.jpg",
+      "smallImage": "img/portfolio/3_chakda.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/4_chakda.jpg",
+      "smallImage": "img/portfolio/4_chakda.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/5_chakda.jpg",
+      "smallImage": "img/portfolio/5_chakda.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/6_chakda.jpg",
+      "smallImage": "img/portfolio/6_chakda.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/7_chakda.jpg",
+      "smallImage": "img/portfolio/7_chakda.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/8_chakda.jpg",
+      "smallImage": "img/portfolio/8_chakda.jpg"
+    }
+  ],
+  "Koticatalogue": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/1_koti.jpg",
+      "smallImage": "img/portfolio/1_koti.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/2_koti.jpg",
+      "smallImage": "img/portfolio/2_koti.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/3_koti.jpg",
+      "smallImage": "img/portfolio/3_koti.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/4_koti.jpg",
+      "smallImage": "img/portfolio/4_koti.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/5_koti.jpg",
+      "smallImage": "img/portfolio/5_koti.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/6_koti.jpg",
+      "smallImage": "img/portfolio/6_koti.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/7_koti.jpg",
+      "smallImage": "img/portfolio/7_koti.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/8_koti.jpg",
+      "smallImage": "img/portfolio/8_koti.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/9_koti.jpg",
+      "smallImage": "img/portfolio/9_koti.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/10_koti.jpg",
+      "smallImage": "img/portfolio/10_koti.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/11_koti.jpg",
+      "smallImage": "img/portfolio/11_koti.jpg"
+    }
+  ],
   "Chorni": [
     {
       "title": "Project Title",

@@ -1,12 +1,12 @@
 import { Image } from "./image";
 import React from "react";
 
-export const Chorni = (props) => {
+export const Chornicatalogue = (props) => {
   return (
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Chorni</h2>
+          <h2>Chorni's</h2>
         </div>
         <div className="row">
           <div className="portfolio-items">
@@ -24,14 +24,7 @@ export const Chorni = (props) => {
                   </div>
                 ))
               : "Loading..."}
-          </div>
-          <div class="mt-20">
-            <a href="/chorni">
-              {" "}
-              <button type="button" class="btn btn-primary click mt-20">
-                View more
-              </button>{" "}
-            </a>
+              
           </div>
         </div>
       </div>
