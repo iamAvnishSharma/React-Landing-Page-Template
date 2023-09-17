@@ -3,7 +3,7 @@ import React from "react";
 
 export const Koti = (props) => {
   return (
-    <div id="portfolio" className="text-center">
+    <div id="koti" className="text-center">
       <div className="container">
         <div className="section-title">
           <h2>Koti</h2>
@@ -15,6 +15,7 @@ export const Koti = (props) => {
                   <div
                     key={`${d.title}-${i}`}
                     className="col-sm-6 col-md-4 col-lg-4"
+                    // onClick={() => {naviga}}
                   >
                     <Image
                       // title={d.title}
