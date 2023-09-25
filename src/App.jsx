@@ -24,6 +24,8 @@ import {
   Route,
   Link,
 } from "react-router-dom";
+import { Throwback } from "./components/throwback";
+import { Throwback2022 } from "./components/throwback2022";
 
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
@@ -41,20 +43,21 @@ const App = () => {
     <div>
       <Navigation />
       <Header data={landingPageData.Header} />
-      <Highlights data={landingPageData.Highlights} />
+      <About data={landingPageData.About} />
+      {/* <Highlights data={landingPageData.Highlights} /> */}
       <Collections data={landingPageData.Collections} />
       {/* <Highlights data={landingPageData.Highlights} /> */}
-      {/* <Features data={landingPageData.Features} /> */}
-      <About data={landingPageData.About} />
-      {/* <Features data={landingPageData.Features} /> */}
+      
       {/* <Services data={landingPageData.Services} /> */}
       <Kediya data={landingPageData.Kediya} />
       {/* <Kediyacatalogue data={landingPageData.Kediyacatalogue} /> */}
       <Chorni data={landingPageData.Chorni} />
-      <Chakda data={landingPageData.Chakda} />
+      {/* <Chakda data={landingPageData.Chakda} /> */}
       <Koti data={landingPageData.Koti} />
       {/* <Testimonials data={landingPageData.Testimonials} /> */}
       {/* <Team data={landingPageData.Team} /> */}
+      <Throwback data={landingPageData.Throwback} />
+      <Throwback2022 data={landingPageData.Throwback2022} />
       <Contact data={landingPageData.Contact} />
       
     </div>

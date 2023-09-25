@@ -6,6 +6,8 @@ import KediyaPage from './KediyaPage';
 import ChorniPage from './ChorniPage';
 import ChakdaPage from './ChakdaPage';
 import KotiPage from './KotiPage';
+import ThrowbackPage from './ThrowbackPage';
+import Throwback2022Page from './Throwback2022Page';
 import * as serviceWorker from './serviceWorker';
 import {
   createBrowserRouter,
@@ -37,6 +39,14 @@ const router = createBrowserRouter([
   {
     path: "/koti",
     element: <KotiPage/>,
+  },
+  {
+    path: "/throwback",
+    element: <ThrowbackPage/>,
+  },
+  {
+    path: "/throwback2022",
+    element: <Throwback2022Page/>,
   }
 ]);
 

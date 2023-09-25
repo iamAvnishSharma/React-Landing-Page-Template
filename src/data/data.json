@@ -137,6 +137,214 @@
       "smallImage": "img/portfolio/20_kediya.jpg"
     }
   ],
+  "Throwback": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/1.png",
+      "smallImage": "img/portfolio/throwback/1.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/2.png",
+      "smallImage": "img/portfolio/throwback/2.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/3.png",
+      "smallImage": "img/portfolio/throwback/3.png"
+    }
+  ],
+  "Throwback2022": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Aarav-Doshi.jpg",
+      "smallImage": "img/portfolio/throwback2022/Aarav-Doshi.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Divya-Barot.jpg",
+      "smallImage": "img/portfolio/throwback2022/Divya-Barot.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Jas-Khetani-2.jpg",
+      "smallImage": "img/portfolio/throwback2022/Jas-Khetani-2.jpg"
+    }
+  ],
+  "Throwbackcatalogue": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/1.png",
+      "smallImage": "img/portfolio/throwback/1.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/2.png",
+      "smallImage": "img/portfolio/throwback/2.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/3.png",
+      "smallImage": "img/portfolio/throwback/3.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/4.png",
+      "smallImage": "img/portfolio/throwback/4.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/5.png",
+      "smallImage": "img/portfolio/throwback/5.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/6.png",
+      "smallImage": "img/portfolio/throwback/6.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/7.png",
+      "smallImage": "img/portfolio/throwback/7.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/8.png",
+      "smallImage": "img/portfolio/throwback/8.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/9.png",
+      "smallImage": "img/portfolio/throwback/9.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/10.png",
+      "smallImage": "img/portfolio/throwback/10.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/11.png",
+      "smallImage": "img/portfolio/throwback/11.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/12.png",
+      "smallImage": "img/portfolio/throwback/12.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/13.png",
+      "smallImage": "img/portfolio/throwback/13.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/14.png",
+      "smallImage": "img/portfolio/throwback/14.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/15.png",
+      "smallImage": "img/portfolio/throwback/15.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/16.png",
+      "smallImage": "img/portfolio/throwback/16.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback/17.png",
+      "smallImage": "img/portfolio/throwback/17.png"
+    }
+  ],
+  "Throwbackcatalogue2022": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Aarav-Doshi.jpg",
+      "smallImage": "img/portfolio/throwback2022/Aarav-Doshi.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Divya-Barot.jpg",
+      "smallImage": "img/portfolio/throwback2022/Divya-Barot.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Jas-Khetani.jpg",
+      "smallImage": "img/portfolio/throwback2022/Jas-Khetani.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Jas-Khetani-2.jpg",
+      "smallImage": "img/portfolio/throwback2022/Jas-Khetani-2.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Jas-Khetani-3.jpg",
+      "smallImage": "img/portfolio/throwback2022/Jas-Khetani-3.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Jas-Khetani-4.jpg",
+      "smallImage": "img/portfolio/throwback2022/Jas-Khetani-4.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Kalpesh-Doshi.jpg",
+      "smallImage": "img/portfolio/throwback2022/Kalpesh-Doshi.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Karan-Dave.jpg",
+      "smallImage": "img/portfolio/throwback2022/Karan-Dave.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Like-Father-Like-Son.jpg",
+      "smallImage": "img/portfolio/throwback2022/Like-Father-Like-Son.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Like-Father-Like-Son-2.jpg",
+      "smallImage": "img/portfolio/throwback2022/Like-Father-Like-Son-2.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Like-Father-Like-Son-3.jpg",
+      "smallImage": "img/portfolio/throwback2022/Like-Father-Like-Son-3.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Nikhil-Dave-1.jpg",
+      "smallImage": "img/portfolio/throwback2022/Nikhil-Dave-1.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Nikhil-Dave-2.jpg",
+      "smallImage": "img/portfolio/throwback2022/Nikhil-Dave-2.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Nikhil-Dave-3.jpg",
+      "smallImage": "img/portfolio/throwback2022/Nikhil-Dave-3.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Rahul-Bera.jpg",
+      "smallImage": "img/portfolio/throwback2022/Rahul-Bera.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Vritik-Dodiya-2.jpg",
+      "smallImage": "img/portfolio/throwback2022/Vritik-Dodiya-2.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/throwback2022/Vritik-Dodiya.jpg",
+      "smallImage": "img/portfolio/throwback2022/Vritik-Dodiya.jpg"
+    }
+  ],
   "Chornicatalogue": [
     {
       "title": "Project Title",
@@ -409,40 +617,50 @@
     },
     {
       "img": "img/team/17_tb.jpg",
-      "name": "Throback 2018",
+      "name": "Throwback 2018",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/17_tb.jpg",
-      "name": "Throback 2022",
+      "name": "Throwback 2022",
       "job": "Senior Designer"
     }
   ],
   "Collections": [
     {
       "img": "img/team/1_kediya.jpg",
-      "name": "Kedia",
-      "job": "Director"
+      "name": "Kediya",
+      "job": "kediya"
     },
     {
       "img": "img/team/1_chorni.jpg",
       "name": "Chorni",
-      "job": "Senior Designer"
+      "job": "chorni"
     },
     {
       "img": "img/team/1_chakda.jpg",
       "name": "Chakda",
-      "job": "Senior Designer"
+      "job": "chakda"
     },
     {
       "img": "img/team/1_koti.jpg",
       "name": "Koti",
-      "job": "Senior Designer"
+      "job": "koti"
     },
     {
       "img": "img/team/1_choli.jpg",
       "name": "Chaniya",
-      "job": "Senior Designer"
+      "job": "chaniya"
+    },
+    {
+      "img": "img/portfolio/throwback/2.png",
+      "name": "Throwback 2018",
+      "job": "throwback"
+    },
+    {
+      "img": "img/portfolio/throwback/3.png",
+      "name": "Throwback 2019",
+      "job": "throwback2022"
     }
   ],
   "Contact": {
